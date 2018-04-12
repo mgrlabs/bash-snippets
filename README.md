@@ -5,4 +5,4 @@ Bash snippets for me to use for future projects.
 
 [az-cli-snippets](az-cli-snippets.sh) - Azure CLI commands I wanted to capture for future use
 
-[docker-commands.sh](docker-commands.sh) - Docker-related commands I wanted to capture for future use
+[docker-snippets.sh](docker-snippets.sh) - Docker-related commands I wanted to capture for future use
